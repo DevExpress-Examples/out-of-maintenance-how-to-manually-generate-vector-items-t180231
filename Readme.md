@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Wpf_MapControl_MapItemStorage/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Wpf_MapControl_MapItemStorage/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/Wpf_MapControl_MapItemStorage/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/Wpf_MapControl_MapItemStorage/MainWindow.xaml))
+<!-- default file list end -->
 # How to: manually generate vector items
 
 
